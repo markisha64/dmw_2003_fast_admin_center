@@ -1,0 +1,12 @@
+{
+  "changes": [
+    {
+      "target": "./AAA/PRO/WSTAG325.PRO",
+      "patch": "UEFUQ0gACSAAAg6AAAkoAAIOgEVPRg=="
+    },
+    {
+      "target": "./AAA/PRO/WSTAG620.PRO",
+      "patch": "UEFUQ0gABeAAARVFT0Y="
+    }
+  ]
+}
